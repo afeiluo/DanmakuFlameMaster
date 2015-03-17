@@ -57,7 +57,7 @@ android上开源弹幕解析绘制引擎项目。[![Build Status](https://travis
 - 增加OpenGL ES绘制方式
 
 - 改进缓存策略和效率
-
+人人人人人
 
 ### Download
 Download the [latest version][1] or grab via Maven:
